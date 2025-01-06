@@ -1,0 +1,14 @@
+{
+    "name": "WhatTimeIsIt",
+    "version": "1.0.2",
+    "title": "What Time Is It",
+    "author": "CaptainDapper",
+    "contact": "CaptainDapper#5940",
+    "homepage": "https://www.patreon.com/captaindapper",
+    "description": "Shows the time of day on the planet you're on. Oh boy!",
+    "factorio_version": "2.0",
+    "dependencies":
+    [
+        "base >= 2.0"
+    ]
+}

@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2024-11-24
+  Bugfixes:
+    - Didn't properly destroy disconnected player UI, causing a crash for known players with old version.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2024-11-24
+  Changes:
+    - Added the planet symbol and timezone.
+    - Increased font size.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024-11-23
+  Changes:
+    - A simple label with your current surface's time. That's literally it.
